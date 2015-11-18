@@ -1,0 +1,23 @@
+name: iolanguage
+favicon: null
+layout_spectrum: 0.6841967492364347
+typography_spectrum: 0.34433618909679353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.25251544383354485
+  lightness: 0.05637557618319988
+  saturation: 0.6274692306760699
+  rhythmicContrast: 0.24049417790956795
+purpose: []
